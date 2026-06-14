@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>VitrinaClipboard</title>
+        <item>
+            <title>0.3.4</title>
+            <pubDate>Sun, 14 Jun 2026 14:14:45 -0600</pubDate>
+            <sparkle:version>176</sparkle:version>
+            <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ArielRi/vitrina-releases/releases/download/apple-v0.3.4/VitrinaClipboard-0.3.4.zip" length="9931743" type="application/octet-stream" sparkle:edSignature="e5r0JNqQ9lbYQqZ/JdlK3/iaL2hr9l3WINYmdo/JW+F6RUownd8DUAyTv2SN3IqT1UJkHNYBFpc1HqDNwvJvCQ=="/>
+        </item>
+    </channel>
+</rss>
