@@ -3,6 +3,14 @@
     <channel>
         <title>VitrinaClipboard</title>
         <item>
+            <title>0.3.9</title>
+            <pubDate>Fri, 14 Aug 2026 21:08:46 -0600</pubDate>
+            <sparkle:version>302</sparkle:version>
+            <sparkle:shortVersionString>0.3.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ArielRi/vitrina-releases/releases/download/apple-v0.3.9/Vitrina-0.3.9.zip" length="9588072" type="application/octet-stream" sparkle:edSignature="UQfKpk9xsv4rr2+MuP8c2nte+aGBuYmWl34eZ0WLGAJ8oL4ypjeR3xBIow89Mre9J4YsIxtzpHCeFNmPdRTUBg=="/>
+        </item>
+        <item>
             <title>0.3.8</title>
             <pubDate>Sun, 05 Jul 2026 17:52:13 -0600</pubDate>
             <sparkle:version>236</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/ArielRi/vitrina-releases/releases/download/apple-v0.3.7/VitrinaClipboard-0.3.7.zip" length="9942622" type="application/octet-stream" sparkle:edSignature="J2g1UAM9yxkEc7b8DWA/WYno4ngU7ehZMA2RVOEzmdsAvBLpypGqL6KktF1wQp3Y5l5S5Ejhk0Z+BpLncTASAQ=="/>
-        </item>
-        <item>
-            <title>0.3.6</title>
-            <pubDate>Sun, 14 Jun 2026 23:00:00 -0600</pubDate>
-            <sparkle:version>191</sparkle:version>
-            <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ArielRi/vitrina-releases/releases/download/apple-v0.3.6/VitrinaClipboard-0.3.6.zip" length="9939103" type="application/octet-stream" sparkle:edSignature="t71okKWTuQCqfqlpmfgJ8oWsGG2itS3Ic8g1NoUZ7sqemBtvw5H19NoZjbP7B+lTsiFGp7mJPxSkYGfmMY9jDQ=="/>
         </item>
     </channel>
 </rss>
